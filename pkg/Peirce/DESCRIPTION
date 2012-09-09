@@ -1,0 +1,13 @@
+Package: Peirce
+Type: Package
+Title: Functions for removing outliers, with illustrations
+Version: 0.5
+Date: 2012-08-26
+Author: Christopher Dardis
+Maintainer: <christopherdardis@gmail.com>
+Description: Peirces and Chauvenets functions for removing outliers with examples and illustrations.
+Depends: R (>= 2.13.0), NORMT3
+Imports: ggplot2, gridExtra, Hmisc, outliers, pracma, rgl, RColorBrewer, scatterplot3d, reshape
+Suggests: emdbook, outliers,  TeachingDemos, compositions
+License: GPL (>= 2)
+LazyLoad: yes
